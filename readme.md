@@ -1,4 +1,7 @@
-This is a simple chrome extension that replaces a web page's images with images of kittens from placekitten.com.
+Info on cross site requests in chrome plugins:
+
+https://developer.chrome.com/extensions/xhr#requesting-permission
+https://developer.chrome.com/extensions/content_scripts
 
 The code follows the tutorial at: https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/.
 

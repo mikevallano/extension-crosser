@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Test Extension",
-  "description": "This extension will replace text. Muhaha.",
+  "description": "This is a tester extension",
   "version": "1.0",
 
 // Describe what you plan to do. Documentation for content scripts: https://developer.chrome.com/extensions/content_scripts
